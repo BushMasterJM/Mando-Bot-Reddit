@@ -1,0 +1,38 @@
+weapons:I’m a Mandalorian. Weapons are part of my religion.
+frog:I’m sorry, lady. I don’t understand frog.
+moff gideon:You have something I want. You may think you have some idea of what you have in your possession, but you do not. Soon, he will be back with me. He means more to me than you will ever know.
+bounty:I can bring you in warm, or I can bring you in cold.
+assassin droid:Do not self destruct. We’re shooting our way out.
+ig-11:Do not self destruct. We’re shooting our way out.
+ig11:You know you’re not so bad for a droid.
+we have you four to one:I like those odds.
+we have you 4 to 1:I like those odds.
+see it coming:A Mandalorian and a Jedi? They’ll never see it coming.
+tano:Ahsoka Tano! Bo-Katan sent me. We need to talk.
+sorgan:Real backwater skug hole. Means it’s perfect for us.
+jawa:Well, I did disintegrate a few of them.
+this is the way:This is the way.
+moving fast:Moving fast is the only thing keeping me safe.
+sorcerers:You expect me to search the galaxy for the home of this creature and deliver it to a race of enemy sorcerers?
+beskar:Yeah. It hit me in the beskar. And at that range, the beskar held up.
+foundling:I was a foundling. They raised me in the fighting corps. I was treated as one of their own. When I came of age, I was sworn to the Creed. The only record of my family name was in the registers of mandalore.
+creed:No living thing has seen me without my helmet since I swore the Creed.
+questions:No questions asked. That’s the policy, isn’t it?
+razor crest:Stolen or destroyed, makes no difference to me.
+n1:Wizard
+n-1:Wizard
+droids:You know you’re not so bad for a droid.
+tuskens:Tuskens think they’re the locals. Everyone else is just trespassing.
+egg:Hey. Spit that out.
+i can bring you in warm, or i can bring you in cold:That’s my line.
+went wrong:Dank farrik!
+pikes:They got what they deserved.
+travel:Travelling with me, that’s no life for a kid.
+container:Can you pad this container so the child can sleep better?
+womp rat:Ready to lay low and stretch your legs for a couple of months, you little womp rat?
+republic credits:Your boss is dead. I'm here to collect on his bounty. I have no trouble with any of you. There's a pile of New Republic credits in there that I have no right to. If you do me the honor of letting me pass, you all can help yourselves to whatever you think you deserve from your former employer.
+mines of mandalore:But the mines have all been destroyed.
+n1 starfighter:Where did they get a cryogenic density combustion booster?
+mandalorian isn’t a race:It’s a creed.
+i don't wear any beskar:Nope.
+i dont wear any beskar:Nope.
